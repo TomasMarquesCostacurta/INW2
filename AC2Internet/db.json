@@ -1,0 +1,22 @@
+{
+    "produtos": [
+    {
+    "id": 1,
+    "descricao": "Tinta Aquarela",
+    "estoque": 10,
+    "valor": 50
+    },
+    {
+    "id": 2,
+    "descricao": "Tinta Verde Musgo",
+    "estoque": 10,
+    "valor": 45
+    },
+    {
+    "id": 3,
+    "descricao": "Tinta Vinho",
+    "estoque": 10,
+    "valor": 55
+    }
+    ]
+   }
